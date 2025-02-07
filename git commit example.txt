@@ -1,0 +1,11 @@
+.terraform\providers\registry.terraform.io\hashicorp\aws\5.84.0\windows_amd64\variables
+
+
+
+git config --global user.name "Anu Uprety"
+
+git config --global user.email "anu6@vt.edu"
+
+
+
+git push --set-upstream origin main
